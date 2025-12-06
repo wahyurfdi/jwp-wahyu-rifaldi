@@ -22,5 +22,4 @@ Hasil Pengujian Website👇
 ![Preview](screenshots/4/E-Todo.gif)
 
 ## Kelompok Pekerjaan 5 (Dokumentasi dan Pemeliharaan)
-Hasil Dokumentasi Project di Github👇
-<a href="README.md">Read Me</a>
+Hasil Dokumentasi Project di Github 👉 <a href="README.md">Read Me</a>
