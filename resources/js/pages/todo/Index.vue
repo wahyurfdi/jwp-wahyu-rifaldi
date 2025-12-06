@@ -1,5 +1,11 @@
 <template>
   <div class="p-5">
+    <div>
+      <h2 class="text-2xl font-bold tracking-tight">Todos</h2>
+      <p class="text-muted-foreground">
+        Here's the list of todos you can manage
+      </p>
+    </div>
     <DataTable
       :columns="columns"
       :data="todoStore.todos"
